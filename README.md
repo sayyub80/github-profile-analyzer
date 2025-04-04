@@ -3,12 +3,14 @@ A React + TypeScript app with ShadCN UI to fetch and display GitHub user reposit
 
 # 🚀 Technologies Used
 1.Frontend: React.js
+
 2.UI Components: ShadCN
+
 3.Language: TypeScript
 
 4.API: GitHub REST API
 
-Charts: Recharts
+5.Charts: Recharts
 
 # 📦 How to Run the Project Locally
 Prerequisites
